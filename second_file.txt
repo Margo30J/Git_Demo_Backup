@@ -1,11 +1,6 @@
 It is second file and new adding!This file was added after FirstFile.txt!
 
-
-It is second file and new adding!This file was added after FirstFile.txt!
-
-It is second file and new adding!This file was added after FirstFile.txt!Q!!E
-
-
+Hello world! It's me!
 It is second file and new adding!This file was added after FirstFile.txt!
 
 It is second file and new adding!This file was added after FirstFile.txt!
